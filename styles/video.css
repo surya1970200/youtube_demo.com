@@ -1,0 +1,64 @@
+ .pic1{
+    width: 290px;
+    margin-bottom: 15px;
+    }
+    .pic1_div{
+        position: relative;
+    }
+    .video_time{
+        background-color: black;
+        color: white;
+        position: absolute;
+        right: 110px;
+        bottom: 28px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 13px;
+        font-weight: 500;
+    }
+    .p1{
+        font-weight: bold;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;
+        width: 250px;
+        line-height: 20px;
+        margin-top: 0px;
+         
+    }
+    .p2{
+        font-family: Arial, Helvetica, sans-serif;
+        color: gray;
+        margin-bottom: 0px;
+        font-size: 14px;
+    }
+    .p3{
+        font-family: Arial, Helvetica, sans-serif;
+        color: gray;
+        margin-top: 5px;
+        font-size: 12px;
+        
+    }
+    .div1{
+        width: 100%;
+        
+
+    }
+    .div_h_img{
+        display: inline-block;
+        vertical-align: top;
+
+    }
+    .h_img{
+        display: inline-block;
+        vertical-align: top;
+        border-radius: 41px;
+         width: 40px;
+        object-fit: cover;
+    }
+    .para{
+        display: inline-block;
+        vertical-align: top;
+        margin-top: 0px;
+    }
+    body{
+        margin: 0;
+     }
